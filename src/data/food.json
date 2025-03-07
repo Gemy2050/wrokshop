@@ -1,0 +1,134 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "category": "Pizza",
+      "description": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 8.99,
+      "image": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni Pizza",
+      "category": "Pizza",
+      "description": "Delicious pizza topped with spicy pepperoni and mozzarella cheese.",
+      "price": 9.99,
+      "image": "https://cdn.pixabay.com/photo/2017/01/22/19/20/pizza-2000614_1280.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Italian Pizza",
+      "category": "Pizza",
+      "description": "Italian pizza with mozzarella cheese, tomatoes, and basil.",
+      "price": 9.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMkksm8LT0aW0bowrLYQ4J5im75w_449_8w&s"
+    },
+    {
+      "id": 3,
+      "name": "Cheeseburger",
+      "category": "Burgers",
+      "description": "Juicy beef patty with melted cheese, lettuce, tomato, and special sauce.",
+      "price": 6.99,
+      "image": "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_1280.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Burger",
+      "category": "Burgers",
+      "description": "Crispy chicken fillet with fresh lettuce, tomato, and mayonnaise.",
+      "price": 7.49,
+      "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/05/Chicken-Burger-16.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Caesar Salad",
+      "category": "Salads",
+      "description": "Crisp romaine lettuce, parmesan cheese, croutons, and Caesar dressing.",
+      "price": 5.99,
+      "image": "https://cookingwithayeh.com/wp-content/uploads/2023/11/Healthy-Caesar-Salad-Without-Anchovies-SQ-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Greek Salad",
+      "category": "Salads",
+      "description": "Fresh cucumbers, tomatoes, olives, and feta cheese with a light dressing.",
+      "price": 6.49,
+      "image": "https://www.onceuponachef.com/images/2023/06/greek-salad-1-1200x1477.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sushi Roll",
+      "category": "Japanese",
+      "description": "Fresh sushi roll with salmon, avocado, and rice, served with soy sauce.",
+      "price": 12.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8DXlzR5IPvzQVex8NP6klnwFlwTzdKIAUpQ&s"
+    },
+    {
+      "id": 8,
+      "name": "Tempura Shrimp Sushi",
+      "category": "Japanese",
+      "description": "Crispy tempura shrimp rolled with rice and seaweed, served with wasabi.",
+      "price": 13.49,
+      "image": "https://cdn.pixabay.com/photo/2016/03/05/19/02/sushi-1238247_1280.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Spaghetti Carbonara",
+      "category": "Pasta",
+      "description": "Traditional Italian pasta with creamy sauce, pancetta, and parmesan cheese.",
+      "price": 10.99,
+      "image": "https://www.marthastewart.com/thmb/S9xVtnWSHldvxPHKOxEq0bALG-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MSL-338686-spaghetti-carbonara-hero-3x2-69999-560b45d1dd9f4741b717176eff024839.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Lasagna",
+      "category": "Pasta",
+      "description": "Layers of pasta, rich meat sauce, and creamy cheese baked to perfection.",
+      "price": 11.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7GC29PWJQ6xNtcSbBWd4vvY6iXWZS4pxVhw&s"
+    },
+    {
+      "id": 11,
+      "name": "Grilled Chicken",
+      "category": "Main Course",
+      "description": "Tender grilled chicken breast served with steamed vegetables and mashed potatoes.",
+      "price": 11.99,
+      "image": "https://www.onceuponachef.com/images/2020/05/best-grilled-chicken-1200x1658.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Steak with Fries",
+      "category": "Main Course",
+      "description": "Juicy grilled steak served with crispy French fries and a side of salad.",
+      "price": 15.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrAMcnrE3WSV_znRORKLcs_UDZq9cnQk9CTw&s"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Pizza"
+    },
+    {
+      "id": 2,
+      "name": "Burgers"
+    },
+    {
+      "id": 3,
+      "name": "Salads"
+    },
+    {
+      "id": 4,
+      "name": "Japanese"
+    },
+    {
+      "id": 5,
+      "name": "Pasta"
+    },
+    {
+      "id": 6,
+      "name": "Main Course"
+    }
+  ]
+}
