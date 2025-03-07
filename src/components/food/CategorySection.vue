@@ -2,11 +2,12 @@
 import { ref } from "vue";
 import FoodCard from "./FoodCard.vue";
 import type { IMenu } from "@/interfaces";
-defineProps<{
+const props = defineProps<{
   category: IMenu;
 }>();
 
-const isOpen = ref(true);
+const isPizzaElement = props.category.name === "Pizza";
+const isOpen = ref(isPizzaElement);
 const toggleOpen = () => {
   isOpen.value = !isOpen.value;
 };
